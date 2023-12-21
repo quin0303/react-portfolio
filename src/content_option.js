@@ -9,7 +9,7 @@ const introdata = {
   title: "I’m Nguyen Tran Thuy Quynh",
   animated: {
     first: "I love technology",
-    second: "I am proactive and eager learner",
+    second: "I am a proactive and eager learner",
     third: "I think outside the box",
   },
   description:
