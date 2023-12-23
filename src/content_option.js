@@ -14,13 +14,14 @@ const introdata = {
   },
   description:
     "As a dynamic final-year student with a passion for software development and business processes, I aspire to apply the knowledge and analytical skills I have acquired to real-world projects. I would be delighted for the opportunity to contribute to and grow with your esteemed company.",
-  your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+  your_img_url: "https://i.ibb.co/fxYcMhZ/avatar.jpg",
 };
 
 const dataabout = {
-  title: "abit about myself",
+  title: "About me",
   aboutme:
-    "I am a final year student majoring in Management Information System at the University of Economics and Law, Vietnam National University. I am actively seeking job opportunities as an IT Business Analyst intern in Ho Chi Minh City. I am passionate about this field and eager to contribute my skills and knowledge to a company in this role. As an intern, I can gain valuable insights into the industry and further develop my technical and analytical skills. With my strong IT background and ability to communicate and collaborate effectively with cross-functional teams, I believe I am a suitable candidate for this role.",
+    "I am a final year student majoring in Management Information System at the University of Economics and Law, Vietnam National University. I am passionate about this field and eager to contribute my skills and knowledge to a company in this role.",
+    aboutme1: "As an intern, I can gain valuable insights into the industry and further develop my technical and analytical skills. With my strong IT background and ability to communicate and collaborate effectively with cross-functional teams, I believe I am a suitable candidate for this role. I am actively seeking job opportunities as an IT Business Analyst intern in Ho Chi Minh City.",
 };
 const worktimeline = [
   {
@@ -62,7 +63,7 @@ const skills = [
     value: 80,
   },
   {
-    name: "Programing (C#, Html, Css, Javascipt, NodeJs)",
+    name: "Programing (Html, Css, Javascipt, NodeJs)",
     value: 60,
   },
 ];
