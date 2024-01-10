@@ -90,21 +90,21 @@ const dataportfolio = [
   {
     img: "https://i.ibb.co/RhM5xFy/Frame-1.png",
     description:
-      "The wisdom of life consists in the elimination of non-essentials.",
+      "Personal Finance Management application",
     link: "#",
   },
   {
     img: "https://i.ibb.co/F6yH546/Frame-425.png",
     description:
-      "The wisdom of life consists in the elimination of non-essentials.",
+      "Elite Fashion website",
     link: "#",
   },
-  // {
-  //   img: "https://picsum.photos/400/?grayscale",
-  //   description:
-  //     "The wisdom of life consists in the elimination of non-essentials.",
-  //   link: "#",
-  // },
+  {
+    img: "https://i.ibb.co/Np7FP94/Dribbble-Shot-V2.png",
+    description:
+      "Weather application",
+    link: "#",
+  },
   // {
   //   img: "https://picsum.photos/400/600/?grayscale",
   //   description:
