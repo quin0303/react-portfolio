@@ -1,3 +1,12 @@
+@media only screen and (min-width: 768px) {
+    .po_items_ho {
+        display: flex;
+        flex-direction: row;
+    }
+    .po_item {
+        height: fit-content;
+    }
+}
 .po_items_ho {
     column-width: 15em;
     -moz-column-width: 15em;
