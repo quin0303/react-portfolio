@@ -2,26 +2,26 @@ const logotext = "QUYNH";
 const meta = {
   title: "Nguyen Tran Thuy Quynh",
   description:
-    "I’m a IT Business Analyst, currently working in Ho Chi Minh city",
+    "I’m a Technical Business Analyst, currently working in Ho Chi Minh city",
 };
 
 const introdata = {
   title: "I’m Nguyen Tran Thuy Quynh",
   animated: {
     first: "I love technology",
-    second: "I am a proactive and eager learner",
+    second: "I am a proactive learner",
     third: "I think outside the box",
   },
   description:
-    "As a dynamic final-year student with a passion for software development and business processes, I aspire to apply the knowledge and analytical skills I have acquired to real-world projects. I would be delighted for the opportunity to contribute to and grow with your esteemed company.",
+    "As a dynamic final-year student with a passion for Technical Business Analyst, I aspire to apply my knowledge and skills I have acquired to real-world projects. I would be delighted for the opportunity to contribute to and grow with company.",
   your_img_url: "https://i.ibb.co/fxYcMhZ/avatar.jpg",
 };
 
 const dataabout = {
   title: "About me",
   aboutme:
-    "I am a final year student majoring in Management Information System at the University of Economics and Law, Vietnam National University. I am passionate about this field and eager to contribute my skills and knowledge to a company in this role.",
-    aboutme1: "As an intern, I can gain valuable insights into the industry and further develop my technical and analytical skills. With my strong IT background and ability to communicate and collaborate effectively with cross-functional teams, I believe I am a suitable candidate for this role. I am actively seeking job opportunities as an IT Business Analyst intern in Ho Chi Minh City.",
+    "I am a final year student majoring in Management Information System at the University of Economics and Law, Vietnam National University Ho Chi Minh City. I am passionate about Technical Business Analyst and eager to contribute my skills and knowledge to a company in this role.",
+    aboutme1: "As an intern, I can gain valuable insights into the industry and further develop my technical and analytical skills. With my strong IT background and ability to communicate and collaborate effectively with cross-functional teams, I believe I am a suitable candidate for this role. I am actively seeking job opportunities as an Technical Business Analyst intern in Ho Chi Minh City.",
 };
 const worktimeline = [
   {
@@ -166,7 +166,7 @@ const contactConfig = {
   YOUR_EMAIL: "nguyentranthuyquynh02@gmail.com",
   YOUR_FONE: "0842 865 390",
   description:
-    "If you are aware of any openings or have any connections in companies that are looking for an IT Business Analyst intern, I would greatly appreciate it if you could share these opportunities with me. Your support and assistance in my job search would be invaluable and I am open to any suggestions or recommendations you may have. ",
+    "If you are aware of any openings or have any connections in companies that are looking for an Technical Business Analyst intern, I would greatly appreciate it if you could share these opportunities with me. Your support and assistance in my job search would be invaluable and I am open to any suggestions or recommendations you may have. ",
   // creat an emailjs.com account
   // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
   YOUR_SERVICE_ID: "service_id",
