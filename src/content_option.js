@@ -100,7 +100,7 @@ const dataportfolio = [
     link: "#",
   },
   {
-    img: "https://i.ibb.co/Np7FP94/Dribbble-Shot-V2.png",
+    img: "https://i.ibb.co/G3DdgnC/Dribbble-Shot-V2.png",
     description:
       "Weather application",
     link: "#",
